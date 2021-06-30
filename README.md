@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devandtravel
-- 👀 I’m interested in travels, engineering, CS, ML, AI, Python, Web, macroeconomics and investing
+- 👀 I’m interested in travels, engineering, CS, ML, AI, Python, Web, macroeconomics, investing and cats for sure
 - 🌱 I’m currently learning computer science, AI, Python, Django, JS, React
 
 <!---
